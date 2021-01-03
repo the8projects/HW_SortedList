@@ -1,0 +1,15 @@
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\bin\Debug\HW_SortedList.exe.config
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\bin\Debug\HW_SortedList.exe
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\bin\Debug\HW_SortedList.pdb
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.csprojAssemblyReference.cache
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\MainWindow.g.cs
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\App.g.cs
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList_MarkupCompile.cache
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList_MarkupCompile.lref
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\MainWindow.baml
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.g.resources
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.Properties.Resources.resources
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.csproj.GenerateResource.cache
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.csproj.CoreCompileInputs.cache
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.exe
+D:\Personal\Knowledge\programming\HW_SortedList\HW_SortedList\obj\Debug\HW_SortedList.pdb
